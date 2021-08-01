@@ -1,0 +1,91 @@
+body{
+    background-color:lightcyan;
+}
+h1,h2,h5{
+    text-align:center;
+}
+h1{
+    color:crimson;
+}
+h2{
+    margin-left: 50px;
+    color:navy;
+}
+h5{
+    color:red;
+}
+input{
+    margin: 20px auto;
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+}
+label{
+    color:mediumblue;
+}
+#userID{
+    margin-left: 50px;
+}
+#password{
+    margin-left: 35px;
+}
+#usernames{
+    margin-left: 50px;
+}
+#torokuBtn{
+    margin-left: 115px;
+    width: 100px;
+    height:50px;
+    border-radius: 2px;
+    font-size: 20px;
+    background-color:royalblue;
+    color:white;
+}
+#backBtn{
+    width: 100px;
+    height:50px;
+    border-radius: 2px;
+    font-size: 20px;
+    background-color:royalblue;
+    color:white;
+}
+.usertotoku_class{
+    width: 530px;
+    margin: auto;
+}
+.messageclass{
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.backBtn{
+    margin-left: 320px;
+    margin-top:-90px;
+}
+.modal_toroku{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+.kakuninMsg{
+    border: 1px solid brown;
+    position: absolute;
+    width: 400px;
+    height: 120px;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: white;
+    border-radius: 6px;
+}
+.closeBtn{
+    float: right;
+    margin-right: 5px;
+    cursor: pointer;
+}
+p{
+    color: navy;
+    text-align: center;
+    font-size: 20px;
+}

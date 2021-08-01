@@ -1,0 +1,36 @@
+body{
+    background-color:lightcyan;
+}
+h1{
+    text-align: center;
+    color:crimson;
+}
+.shosaiclass{
+    width: 500px;
+    margin: auto;
+}
+label{
+    display:block;
+    font-size: 20px;
+    width: 150px;
+    float: left;
+}
+.backBtn{
+    margin-left: 450px;
+    margin-top: 50px;
+}
+#backBtn{
+    width: 100px;
+    height: 50px;
+    margin-bottom: 50px;
+    border-radius: 2px;
+    font-size: 20px;
+    background-color:royalblue;
+    color:white;
+}
+label{
+    color:mediumblue;
+}
+p{
+    font-size: 20px;
+}

@@ -1,0 +1,29 @@
+body{
+    background-color:lightcyan;
+}
+h1{
+    text-align: center;
+    color:crimson;
+}
+body{
+    background-color:lightcyan;
+}
+#backBtn{
+    width: 100px;
+    height: 50px;
+    border-radius: 2px;
+    font-size: 20px;
+    margin-left: 250px;
+    margin-top: 200px;
+    background-color:royalblue;
+    color:white;
+}
+.modoru{
+    width: 150px;
+    margin: auto;
+}
+p{
+    color: navy;
+    text-align: center;
+    font-size: 20px;
+}

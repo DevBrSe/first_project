@@ -1,0 +1,26 @@
+body{
+    background-color:lightcyan;
+}
+h1{
+    text-align: center;
+    color:crimson;
+}
+form dl dt{
+    width: 150px;
+    float: left;
+    color:mediumblue;
+}
+.product_type_detail{
+    width: 350px;
+    margin:auto;
+}
+#backBtn{
+    width: 100px;
+    height: 50px;
+    border-radius: 2px;
+    font-size: 20px;
+    margin-left: 350px;
+    margin-top: 150px;
+    background-color:royalblue;
+    color:white;
+}

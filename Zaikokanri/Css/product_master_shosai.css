@@ -1,0 +1,28 @@
+body{
+    background-color:lightcyan;
+}
+h1{
+    text-align: center;
+    color:crimson;
+}
+label{
+    display: block;
+    font-size: 20px;
+    width: 160px;
+    float: left;
+    color:mediumblue;
+}
+.backBtn_class{
+    width: 450px;
+    margin: auto;
+}
+#backBtn{
+    width: 100px;
+    height: 50px;
+    border-radius: 2px;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 450px;
+    background-color:royalblue;
+    color:white;
+}

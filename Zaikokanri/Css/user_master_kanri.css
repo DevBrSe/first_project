@@ -1,0 +1,36 @@
+body{
+    background-color:lightcyan;
+}
+h1{
+    text-align: center;
+    color:crimson;
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color:teal;
+}
+.userkanri ul a:hover{
+    background-color:lightblue;
+    color:chocolate;
+}
+li{
+    color: teal;
+}
+#backBtn{
+    width: 100px;
+    height: 50px;
+    margin-top: 150px;
+    margin-left: 350px;
+    border-radius: 2px;
+    font-size: 20px;
+    background-color:royalblue;
+    color:white;
+}
+.userkanri{
+    width: 400px;
+    margin: auto;
+}
+.usermaster{
+    margin-left: -70px;
+}
